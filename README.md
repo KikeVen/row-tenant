@@ -1,6 +1,6 @@
 # Django Multi-Tenant Implementation Plan
 
-![tenant guard](images\row_lock_50.png)
+![tenant guard](images/row_lock_50.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Django](https://img.shields.io/badge/Django-4.0+-green.svg)](https://www.djangoproject.com/)
