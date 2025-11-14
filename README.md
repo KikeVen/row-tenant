@@ -1,11 +1,15 @@
 # Django Multi-Tenant Implementation Plan
 
+<div align="center">
+
 ![tenant guard](images/row_lock_50.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Django](https://img.shields.io/badge/Django-4.0+-green.svg)](https://www.djangoproject.com/)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+</div>
 
 A comprehensive, production-ready guide for implementing row-level tenant isolation in Django projects. **Think of this as `pip install multi-tenant` for your architecture** - copy the implementation prompt, paste it into your AI assistant, and get guided step-by-step through the entire implementation customized to your project.
 
