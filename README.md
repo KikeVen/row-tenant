@@ -11,7 +11,7 @@
 
 </div>
 
-A comprehensive, production-ready guide for implementing row-level tenant isolation in Django projects. **Think of this as `pip install multi-tenant` for your architecture** - copy the implementation prompt, paste it into your AI assistant, and get guided step-by-step through the entire implementation customized to your project.
+A comprehensive, production-ready prompt for implementing row-level tenant isolation in Django projects. **Think of this as `pip install multi-tenant` for your architecture** - copy the implementation prompt, paste it into your AI assistant, and get guided step-by-step through the entire implementation customized to your project.
 
 ## 🚀 Quick Start - Get Implementing in 2 Minutes
 
