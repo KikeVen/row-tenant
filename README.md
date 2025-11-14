@@ -11,7 +11,7 @@ A comprehensive, production-ready guide for implementing row-level tenant isolat
 
 ## 🚀 Quick Start - Get Implementing in 2 Minutes
 
-**This is like `pip install` for architecture patterns** - copy and go!
+**This is like `pip install` but fully configured for architecture patterns** - copy and go!
 
 - **Step 1:** Copy contents of this repository to your Django project folder
 - **Step 2:** Open [implementation-prompt.md](implementation-prompt.md) and copy its contents
@@ -44,7 +44,7 @@ Traditional implementation takes 2-4 weeks and requires deep Django expertise. T
 
 ### ⚡ Speed Benefits
 
-- **9-13 days instead of 2-4 weeks** - Pre-planned architecture and battle-tested patterns
+- **30-120 minutes instead of 2-4 weeks** - Pre-planned architecture and battle-tested patterns
 - **AI-guided implementation** - Get unstuck instantly with context-aware guidance
 - **Copy-paste code examples** - Working code blocks, not just concepts
 
